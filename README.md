@@ -11,7 +11,7 @@
     <a href="https://jamin0619.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <a href="https://www.notion.so/6-60898af0e7c3410eba2204135cf93715?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
