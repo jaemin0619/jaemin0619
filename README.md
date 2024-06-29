@@ -19,6 +19,7 @@
 </div><br>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jaemin0619=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knr0619)](https://solved.ac/knr0619/)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/jjm._.in/">
