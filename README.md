@@ -29,27 +29,15 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-## Certificates 📜
-<div class="certificates">
-    <table>
-        <thead>
-            <tr>
-                <th>자격증 명칭</th>
-                <th>발급 기관</th>
-                <th>취득 연도</th>
-            </tr>
-        </thead>
-        <tbody>
-           
-            <tr>
-                <td>SQLD (SQL Developer)</td>
-                <td>한국데이터산업진흥원</td>
-                <td>2024년 09월</td>
-            </tr>
-          
-        </tbody>
-    </table>
-</div>    
+## Certificates! 
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/jjm._.in/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:wjdwoals000619@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -68,4 +56,3 @@
     <br>
 </div><br>
 </div>
-
