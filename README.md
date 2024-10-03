@@ -30,8 +30,26 @@
     </a>
 </div><br>
 ## Certificates 📜
-| 자격증 명칭             | 발급 기관            | 취득 연도  |
-| SQLD (SQL Developer)    | 한국데이터산업진흥원 | 2024. 09   |
+<div class="certificates">
+    <table>
+        <thead>
+            <tr>
+                <th>자격증 명칭</th>
+                <th>발급 기관</th>
+                <th>취득 연도</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+            <tr>
+                <td>SQLD (SQL Developer)</td>
+                <td>한국데이터산업진흥원</td>
+                <td>2024년 09월</td>
+            </tr>
+          
+        </tbody>
+    </table>
+</div>    
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
