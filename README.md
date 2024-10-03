@@ -29,7 +29,9 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
+## Certificates 📜
+| 자격증 명칭             | 발급 기관            | 취득 연도  |
+| SQLD (SQL Developer)    | 한국데이터산업진흥원 | 2024. 09   |
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
