@@ -22,7 +22,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knr0619)](https://solved.ac/knr0619/)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/jjm._.in/">
+    <a href="https://www.instagram.com/j_jaminxx/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:wjdwoals000619@gmail.com">
