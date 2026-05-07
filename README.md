@@ -132,13 +132,3 @@ const jaemin = {
 </div>
 
 <br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaemin0619&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
