@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/jaemin0619">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=잼코딩%20Jaemin&fontSize=75&fontColor=ffffff&fontAlignY=38&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=잼코딩&fontSize=75&fontColor=ffffff&fontAlignY=38&descAlignY=58&animation=fadeIn" />
 </a>
 
 <br/>
 
 <a href="https://github.com/jaemin0619">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jaemin+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jaemin+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer+%F0%9F%A4%96;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,8 +30,8 @@ const jaemin = {
   major       : "Computer Science Engineering",
   location    : "Suwon, South Korea 🇰🇷",
   
-  currently   : ["Full stack", "AI engineer"],
-  learning    : ["Spring Framework", "React", "Algorithm","AI"],
+  currently   : ["Full Stack", "AI Engineer"],
+  learning    : ["Spring Framework", "React", "FastAPI", "LLM / RAG"],
   hobbies     : ["Coding 💻", "Coffee ☕", "Music 🎧"],
   
   motto       : "I do it anyways."
@@ -81,7 +81,20 @@ const jaemin = {
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+#### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
   </td>
