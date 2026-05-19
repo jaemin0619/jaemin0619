@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/jaemin0619">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jaemin+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer+%F0%9F%A4%96;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jaemin+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
