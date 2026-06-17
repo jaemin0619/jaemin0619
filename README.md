@@ -13,7 +13,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jaemin0619&label=Profile%20Views&color=ff6b9d&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/jaemin0619?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
 <img src="https://img.shields.io/github/stars/jaemin0619?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 
 </div>
