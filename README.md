@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jaemin+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jaemin0619&label=Profile%20Views&color=ff6b9d&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/stars/jaemin0619?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-
 </div>
 
 <br/>
